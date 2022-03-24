@@ -192,7 +192,7 @@ Crystal Plastic Mechanisms: Diffusion Creep
 {{< tdopen >}}
 
 
-Diffusion Data for Silicate Minerals, Glasses, and Liquids (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/RF002p0269))
+Diffusion Data for Silicate Minerals, Glasses, and Liquids ([PDF - 1.4 MB](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/RF002p0269))
 
 
 {{< tdclose >}}

@@ -42,7 +42,7 @@ Strength Profiles in the Earth
 
 Mode, Mechanism, and Scaling of Strength: Preliminary Issues ([PDF]({{< baseurl >}}/resources/l1mech_mode_scal))
 
-Stress Strain Strength Profiles (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/stress_strain_2a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/stress_strain_2b))
+Stress Strain Strength Profiles ([PDF 1]({{< baseurl >}}/resources/stress_strain_2a)) ([PDF 2]({{< baseurl >}}/resources/stress_strain_2b))
 
 
 {{< tdclose >}}
@@ -190,7 +190,7 @@ Crystal Plastic Mechanisms: Diffusion Creep
 
 Point Defects in Minerals ([PDF]({{< baseurl >}}/resources/l14_poin_def_min))
 
-Diffusion Creep in Mono Atomic Crystal (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/diff_creep_mono))
+Diffusion Creep in Mono Atomic Crystal ([PDF]({{< baseurl >}}/resources/diff_creep_mono))
 
 
 {{< tdclose >}}
