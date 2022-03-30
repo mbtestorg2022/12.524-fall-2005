@@ -7,6 +7,7 @@ description: 'This file contains lecture on elasticity of rocks, exact elastic t
   with examples and pore compressibility.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-524-mechanical-properties-of-rocks-fall-2005/8380d3bd557e10ecca9da4fae908ff33_l7bsome_elas_ular.pdf
 file_type: application/pdf
+parent_uid: 6c1611e4-16dc-ac4c-a120-97c2aaa685b7
 resourcetype: Document
 title: l7bsome_elas_ular.pdf
 uid: 8380d3bd-557e-10ec-ca9d-a4fae908ff33

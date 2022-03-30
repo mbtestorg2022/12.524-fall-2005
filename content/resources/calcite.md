@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
 resourcetype: Image
 title: calcite.tif
 uid: a77530e3-c222-85c5-4e9b-560ef3ac900d

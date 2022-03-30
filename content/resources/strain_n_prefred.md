@@ -5,6 +5,7 @@ description: This resource discusses about strain during glide, inclined slip pl
   from climb, Taylor-von mises criterion, etc.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-524-mechanical-properties-of-rocks-fall-2005/7a39368f43b57bc3c334a32f6c75a28f_strain_n_prefred.pdf
 file_type: application/pdf
+parent_uid: 6c1611e4-16dc-ac4c-a120-97c2aaa685b7
 resourcetype: Document
 title: strain_n_prefred.pdf
 uid: 7a39368f-43b5-7bc3-c334-a32f6c75a28f

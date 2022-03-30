@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
 resourcetype: Image
 title: quartz.tif
 uid: 3cccf93c-fbd1-cb51-99e3-fd9482d2a55a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f6466739-950d-cfb8-ec42-3e784cbdb89b
 resourcetype: Image
 title: 25pointgrid.tif
 uid: 88068ce2-57cb-1294-834e-c7e1a1c992ef
